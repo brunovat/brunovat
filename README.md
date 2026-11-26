@@ -2,14 +2,8 @@
 
 **I like making things that people can feel: code, sound, art and everything in between.**
 
-Software developer moving into game development. I have a degree in Computer and Informatics Engineering, I'm doing a Master's in Digital Game Development at the University of Aveiro, and I make music under two names.
+Backend developer in digital health, doing a Master's in Digital Game Development, and making music on the side. Most interested in level design, game feel and atmosphere. Dark Souls is the reason.
 My strength is connecting disciplines: I speak programmer, designer, editor and musician, and I care a lot about polish, about the difference between something that works and something that feels finished.
-
-### What I do
-
-- **Backend development in healthtech.** Python, FastAPI and MySQL for an app in the mental health space. I built a speech analysis module that extracts prosody features from voice recordings (openSMILE plus custom audio preprocessing) to support research on mental health indicators.
-- **Game development.** Studying it now, mostly in Godot. Most interested in level design, game feel and atmosphere. Dark Souls is the reason.
-- **Music.** Singing, writing, mixing and producing. Everything is self-made.
 
 ### Things I've built
 
@@ -21,15 +15,10 @@ My strength is connecting disciplines: I speak programmer, designer, editor and 
 
 `Python` `C++` `C` `GDScript` `SQL` · `Godot` `FastAPI` `MySQL` `Git` · `Vegas Pro` `Photoshop` `DAW`
 
-### Music and video
-
-- **evervast**: a one-person band with its own world. A musician lost in grief ends up in the Evervast, a limbo ruled by an entity that wants his pain to last forever. Production, vocals, instruments, art, videos and story are all mine. [evervastt.com](https://evervastt.com)
-- Freelance game montages and edits (Rocket League, CS:GO), plus voice acting for a [video essay on Inscryption](https://youtu.be/MGN8hssnto8).
-- **vat**: my original music project, music of whatever I feel like making. [allmylinks.com/vatt](https://allmylinks.com/vatt)
-
 ### Find me
 
-[LinkedIn](https://www.linkedin.com/in/bruno-oliveira-733831372/) · [vat](https://allmylinks.com/vatt) · [evervast](https://evervastt.com)
+[LinkedIn](https://www.linkedin.com/in/bruno-oliveira-733831372/)
+**Music:** [vat](https://allmylinks.com/vatt) · [evervast](https://evervastt.com), a one-person band with its own world
 
 🇵🇹 Portuguese (native) · 🇬🇧 English (C1)
 
