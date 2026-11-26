@@ -13,7 +13,7 @@ My strength is connecting disciplines: I speak programmer, designer, editor and 
 
 ### Tools
 
-`Python` `C++` `C` `GDScript` `SQL` · `Godot` `FastAPI` `MySQL` `Git` · `Vegas Pro` `Photoshop` `DAW`
+`Python` `C++` `C` `GDScript` `SQL` · `Godot` `FastAPI` `MySQL` `Git` · `Vegas Pro` `Photoshop` `FL Studio`
 
 ### Find me
 
